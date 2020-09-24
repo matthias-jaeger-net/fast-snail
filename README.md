@@ -1,5 +1,5 @@
 # fast-snail
-Attempt of a viusal editor that runs on locally and can deploy a static webpage.
+Attempt of a viusal editor that runs locally and can deploy a static webpage.
 
 # Inspirations
 * WordPresss Gutenberg Editor – Good but not design flexible
@@ -21,5 +21,5 @@ Attempt of a viusal editor that runs on locally and can deploy a static webpage.
 # What's going on
 - [x] Create repo
 - [x] ``npx create-react-app``
-- [ ] Cleanup files
+- [x] Cleanup files
 - [ ] Start with "Action Button" idea and proof of concept

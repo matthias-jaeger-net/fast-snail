@@ -17,9 +17,8 @@ Attempt of a viusal editor that runs locally and can deploy a static webpage.
 * Group multiple templates and save as new template as in Elementor
 * Automatic deploy process to a public staging server via ssh and git
 
-
 # What's going on
 - [x] Create repo
 - [x] ``npx create-react-app``
 - [x] Cleanup files
-- [ ] Start with "Action Button" idea and proof of concept
+- [x] Start with "Action Button" idea and proof of concept
